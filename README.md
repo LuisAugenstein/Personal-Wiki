@@ -11,8 +11,8 @@ from now `pip install` only installs packages inside the environment.
 deactivate the environment with `deactivate`
 
 ## Source Control
-Use `pip freeze > requirements.txt` to create something like a package.json file
-Folder Structure:
+Use `pip freeze > requirements.txt` to create something like a package.json file. 
+Use the following Folder Structure:
         
         project
         |- venv
