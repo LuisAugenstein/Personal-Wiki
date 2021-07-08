@@ -13,10 +13,11 @@ deactivate the environment with `deactivate`
 ## Source Control
 Use `pip freeze > requirements.txt` to create something like a package.json file
 Folder Structure:
-       ` project
+        
+        project
         |- venv
         |- requrements.txt
-        |- src`
+        |- src
 Only include requirements.txt to source control, not the whole venv folder
 To create the venv folder only based on requirements.txt file do:
         
